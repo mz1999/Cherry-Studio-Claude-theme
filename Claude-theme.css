@@ -3,7 +3,7 @@
 :root {
   --color-black-soft: #2A2B2A; /* 深灰黑色，接近炭黑 */
   --color-white-soft: #F8F7F2; /* 温暖的米色，略带象牙色调 */
-  --font-family: "SF Pro Rounded", "LXGWWenKaiScreenR", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-family: "Cascadia Code", "LXGW Bright", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
   --message-text-color-dark: hsl(50, 14%, 91%); /* 暖色调浅米白色 */
 }
 
