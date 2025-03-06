@@ -82,7 +82,7 @@ body[theme-mode="dark"] {
 
   /* 深色模式下的文本颜色覆盖 */
   p, span, div {
-    color: var(--message-text-color-dark) !important;
+    color: var(--message-text-color-dark);
   }
 }
 
@@ -148,4 +148,3 @@ body[theme-mode="light"] {
     font-family: var(--font-family) !important;
   }
 }
-
