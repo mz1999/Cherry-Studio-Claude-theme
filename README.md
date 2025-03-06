@@ -5,3 +5,5 @@ Cherry Studio 仿 Claude 主题样式 + 字体
 - 中文字体 [LXGWWenKaiScreenR](https://github.com/lxgw/LxgwWenKai-Screen/releases)  英文字体 [SF Pro Rounded](https://developer.apple.com/fonts/)
 - dark 模式下 Token 耗尽也解决不了代码不高亮，有请佬出手。
 - [Claude-theme.css](https://github.com/igeekbb/Cherry-Studio-Claude-theme/blob/main/Claude-theme.css)
+
+![CleanShot 2025-03-06 at 08 16 38@2x](https://github.com/user-attachments/assets/2562c6ef-7e11-4c5a-9e79-a3007e3d7771)
