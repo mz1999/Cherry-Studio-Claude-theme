@@ -7,3 +7,8 @@ Cherry Studio 仿 Claude 主题样式 + 字体
 - Claude 主题文件 [Claude-theme.css](https://github.com/igeekbb/Cherry-Studio-Claude-theme/blob/main/Claude-theme.css)
 
 ![CleanShot 2025-03-06 at 08 16 38@2x](https://github.com/user-attachments/assets/2562c6ef-7e11-4c5a-9e79-a3007e3d7771)
+
+## 更换字体
+
+- 中文字体为 [LXGW Bright](https://github.com/lxgw/LxgwBright)
+- 英文字体为 [Cascadia Code](https://github.com/microsoft/cascadia-code)
